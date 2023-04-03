@@ -1,2 +1,2 @@
 !#/bin/bash
-echo "Devops Engineer"
+echo "Devops Engineer training"
